@@ -6,9 +6,10 @@
 	"installed_packages":
 	[
 		"Anaconda",
-		"Ansible",
+		"BracketHighlighter",
+		"Jedi - Python autocompletion",
 		"Package Control",
 		"Predawn",
-		"SublimeLinter-contrib-ansible-lint"
+		"SideBarEnhancements"
 	]
 }
