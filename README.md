@@ -11,3 +11,7 @@ Install Source Code Pro
 - Install SideBarEnhancements
 
 - View - > SingleColumn
+
+
+# Errors: 
+- Remove 0_package_control_loader from "Preferences.sublime-settings—user” -> ignored_packages
